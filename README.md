@@ -1,9 +1,9 @@
 # Scripts--parcial_2-ST
 
-#✒️ Nicolás Cuellar Castrellón
+# ✒️ Nicolás Cuellar Castrellón
 
 
-#✒️ Santiago Duque Valencia
+# ✒️ Santiago Duque Valencia
 
 ## 📂 Infraestructura
 
